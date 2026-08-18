@@ -1,0 +1,38 @@
+src/commands/checkpoint_agent/presets/zcode.rs
+  s_60afedb0305f15::t_9f2a8a978137fe 1-330
+src/mdm/agents/mod.rs
+  s_60afedb0305f15::t_18e1a16cc26441 55
+  s_60afedb0305f15::t_a3aabc80aa542c 35
+  s_60afedb0305f15::t_760e9e9f330d9b 17
+src/mdm/agents/zcode.rs
+  s_60afedb0305f15::t_ba5b4224a92d9f 207
+  s_60afedb0305f15::t_3fffb2ea7cc182 306-310
+  s_60afedb0305f15::t_c2a2184f01459c 116-119
+  s_60afedb0305f15::t_f053010addaac7 393-396
+  s_60afedb0305f15::t_7a7f0bde004e2b 642-645
+  s_60afedb0305f15::t_10552e3e8346dc 689-692
+  s_60afedb0305f15::t_97f90aae53a0eb 208-211
+  s_60afedb0305f15::t_74b687c8c24d16 381-385
+  s_60afedb0305f15::t_4525d520a097d1 1-115,120-206,212-305,311-380,386-392,397-452,462-528,532-641,646-688,693-711
+  s_60afedb0305f15::t_9694c6243b959e 529-531
+  s_60afedb0305f15::t_5aa46359feb3a8 453-461
+src/commands/checkpoint_agent/presets/mod.rs
+  s_60afedb0305f15::t_144828917a6582 22
+  s_60afedb0305f15::t_4060e6cf43ad89 172
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "d25b56df8d5ac12cd9778de1f2a1bcdb64c95d5f",
+  "prompts": {},
+  "sessions": {
+    "s_60afedb0305f15": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "sess_055758d8-85ea-403e-a2f5-2833df53dde0",
+        "model": "unknown"
+      },
+      "human_author": null
+    }
+  }
+}
