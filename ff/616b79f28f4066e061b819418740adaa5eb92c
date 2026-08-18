@@ -1,0 +1,28 @@
+src/mdm/agents/mod.rs
+  s_60afedb0305f15::t_18e1a16cc26441 55
+  s_60afedb0305f15::t_760e9e9f330d9b 17
+  s_60afedb0305f15::t_a3aabc80aa542c 35
+src/mdm/agents/zcode.rs
+  s_60afedb0305f15::t_4525d520a097d1 1-679
+src/commands/checkpoint_agent/presets/mod.rs
+  s_60afedb0305f15::t_4060e6cf43ad89 172
+  s_60afedb0305f15::t_144828917a6582 22
+src/commands/checkpoint_agent/presets/zcode.rs
+  s_60afedb0305f15::t_9f2a8a978137fe 1-330
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "ff616b79f28f4066e061b819418740adaa5eb92c",
+  "prompts": {},
+  "sessions": {
+    "s_60afedb0305f15": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "sess_055758d8-85ea-403e-a2f5-2833df53dde0",
+        "model": "unknown"
+      },
+      "human_author": "pengzhou <pengzhou@syncore.space>"
+    }
+  }
+}
